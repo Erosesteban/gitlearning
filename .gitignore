@@ -1,0 +1,5 @@
+*.
+*.txt
+!.gitigore
+!file01.txt
+!file02.txt
